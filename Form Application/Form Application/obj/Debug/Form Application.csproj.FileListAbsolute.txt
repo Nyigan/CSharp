@@ -1,0 +1,9 @@
+C:\Users\Dr\Documents\GitHub\CSharp\Form Application\Form Application\bin\Debug\Form Application.exe.config
+C:\Users\Dr\Documents\GitHub\CSharp\Form Application\Form Application\bin\Debug\Form Application.exe
+C:\Users\Dr\Documents\GitHub\CSharp\Form Application\Form Application\bin\Debug\Form Application.pdb
+C:\Users\Dr\Documents\GitHub\CSharp\Form Application\Form Application\obj\Debug\Form Application.csprojResolveAssemblyReference.cache
+C:\Users\Dr\Documents\GitHub\CSharp\Form Application\Form Application\obj\Debug\Form_Application.Form1.resources
+C:\Users\Dr\Documents\GitHub\CSharp\Form Application\Form Application\obj\Debug\Form_Application.Properties.Resources.resources
+C:\Users\Dr\Documents\GitHub\CSharp\Form Application\Form Application\obj\Debug\Form Application.csproj.GenerateResource.Cache
+C:\Users\Dr\Documents\GitHub\CSharp\Form Application\Form Application\obj\Debug\Form Application.exe
+C:\Users\Dr\Documents\GitHub\CSharp\Form Application\Form Application\obj\Debug\Form Application.pdb

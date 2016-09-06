@@ -1,0 +1,6 @@
+C:\Users\Dr\Documents\GitHub\CSharp\Making Decisions\Making Decisions\bin\Debug\Making Decisions.exe.config
+C:\Users\Dr\Documents\GitHub\CSharp\Making Decisions\Making Decisions\bin\Debug\Making Decisions.exe
+C:\Users\Dr\Documents\GitHub\CSharp\Making Decisions\Making Decisions\bin\Debug\Making Decisions.pdb
+C:\Users\Dr\Documents\GitHub\CSharp\Making Decisions\Making Decisions\obj\Debug\Making Decisions.csprojResolveAssemblyReference.cache
+C:\Users\Dr\Documents\GitHub\CSharp\Making Decisions\Making Decisions\obj\Debug\Making Decisions.exe
+C:\Users\Dr\Documents\GitHub\CSharp\Making Decisions\Making Decisions\obj\Debug\Making Decisions.pdb
