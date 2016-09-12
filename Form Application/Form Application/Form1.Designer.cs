@@ -66,6 +66,7 @@
             this.txtNum1.Name = "txtNum1";
             this.txtNum1.Size = new System.Drawing.Size(168, 34);
             this.txtNum1.TabIndex = 0;
+            this.txtNum1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtNum1_KeyPress);
             // 
             // txtNum2
             // 
@@ -74,6 +75,7 @@
             this.txtNum2.Name = "txtNum2";
             this.txtNum2.Size = new System.Drawing.Size(168, 34);
             this.txtNum2.TabIndex = 1;
+            this.txtNum2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtNum1_KeyPress);
             // 
             // lblHeader
             // 
@@ -81,7 +83,7 @@
             this.lblHeader.BackColor = System.Drawing.Color.DarkGray;
             this.lblHeader.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.lblHeader.Font = new System.Drawing.Font("Lucida Bright", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblHeader.Location = new System.Drawing.Point(194, 32);
+            this.lblHeader.Location = new System.Drawing.Point(75, 32);
             this.lblHeader.Name = "lblHeader";
             this.lblHeader.Size = new System.Drawing.Size(0, 27);
             this.lblHeader.TabIndex = 4;
@@ -142,7 +144,8 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Simple Form to Add Two Integers";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Simple Form to Add Two Numeric Values";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
