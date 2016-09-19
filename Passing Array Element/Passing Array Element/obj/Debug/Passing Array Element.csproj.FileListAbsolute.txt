@@ -1,0 +1,6 @@
+C:\Users\Dr\Documents\GitHub\CSharp\Passing Array Element\Passing Array Element\bin\Debug\Passing Array Element.exe.config
+C:\Users\Dr\Documents\GitHub\CSharp\Passing Array Element\Passing Array Element\bin\Debug\Passing Array Element.exe
+C:\Users\Dr\Documents\GitHub\CSharp\Passing Array Element\Passing Array Element\bin\Debug\Passing Array Element.pdb
+C:\Users\Dr\Documents\GitHub\CSharp\Passing Array Element\Passing Array Element\obj\Debug\Passing Array Element.csprojResolveAssemblyReference.cache
+C:\Users\Dr\Documents\GitHub\CSharp\Passing Array Element\Passing Array Element\obj\Debug\Passing Array Element.exe
+C:\Users\Dr\Documents\GitHub\CSharp\Passing Array Element\Passing Array Element\obj\Debug\Passing Array Element.pdb

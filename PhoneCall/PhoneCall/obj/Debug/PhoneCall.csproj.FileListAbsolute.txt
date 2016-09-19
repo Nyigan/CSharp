@@ -1,0 +1,6 @@
+C:\Users\Dr\Documents\GitHub\CSharp\PhoneCall\PhoneCall\bin\Debug\PhoneCall.exe.config
+C:\Users\Dr\Documents\GitHub\CSharp\PhoneCall\PhoneCall\bin\Debug\PhoneCall.exe
+C:\Users\Dr\Documents\GitHub\CSharp\PhoneCall\PhoneCall\bin\Debug\PhoneCall.pdb
+C:\Users\Dr\Documents\GitHub\CSharp\PhoneCall\PhoneCall\obj\Debug\PhoneCall.csprojResolveAssemblyReference.cache
+C:\Users\Dr\Documents\GitHub\CSharp\PhoneCall\PhoneCall\obj\Debug\PhoneCall.exe
+C:\Users\Dr\Documents\GitHub\CSharp\PhoneCall\PhoneCall\obj\Debug\PhoneCall.pdb
