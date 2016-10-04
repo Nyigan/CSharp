@@ -1,0 +1,6 @@
+C:\Users\Dr\Documents\GitHub\CSharp\Object Lifetime\Object Lifetime\bin\Debug\Object Lifetime.exe.config
+C:\Users\Dr\Documents\GitHub\CSharp\Object Lifetime\Object Lifetime\bin\Debug\Object Lifetime.exe
+C:\Users\Dr\Documents\GitHub\CSharp\Object Lifetime\Object Lifetime\bin\Debug\Object Lifetime.pdb
+C:\Users\Dr\Documents\GitHub\CSharp\Object Lifetime\Object Lifetime\obj\Debug\Object Lifetime.csprojResolveAssemblyReference.cache
+C:\Users\Dr\Documents\GitHub\CSharp\Object Lifetime\Object Lifetime\obj\Debug\Object Lifetime.exe
+C:\Users\Dr\Documents\GitHub\CSharp\Object Lifetime\Object Lifetime\obj\Debug\Object Lifetime.pdb
