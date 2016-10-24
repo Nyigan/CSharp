@@ -1,0 +1,6 @@
+C:\Users\Dr\Documents\GitHub\CSharp\CollectionExample\CollectionExample\bin\Debug\CollectionExample.exe.config
+C:\Users\Dr\Documents\GitHub\CSharp\CollectionExample\CollectionExample\bin\Debug\CollectionExample.exe
+C:\Users\Dr\Documents\GitHub\CSharp\CollectionExample\CollectionExample\bin\Debug\CollectionExample.pdb
+C:\Users\Dr\Documents\GitHub\CSharp\CollectionExample\CollectionExample\obj\Debug\CollectionExample.csprojResolveAssemblyReference.cache
+C:\Users\Dr\Documents\GitHub\CSharp\CollectionExample\CollectionExample\obj\Debug\CollectionExample.exe
+C:\Users\Dr\Documents\GitHub\CSharp\CollectionExample\CollectionExample\obj\Debug\CollectionExample.pdb
