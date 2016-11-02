@@ -1,0 +1,11 @@
+C:\Users\Dr\Documents\GitHub\CSharp\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.exe.config
+C:\Users\Dr\Documents\GitHub\CSharp\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.mdf
+C:\Users\Dr\Documents\GitHub\CSharp\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample_log.ldf
+C:\Users\Dr\Documents\GitHub\CSharp\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.exe
+C:\Users\Dr\Documents\GitHub\CSharp\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.pdb
+C:\Users\Dr\Documents\GitHub\CSharp\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.csprojResolveAssemblyReference.cache
+C:\Users\Dr\Documents\GitHub\CSharp\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.Properties.Resources.resources
+C:\Users\Dr\Documents\GitHub\CSharp\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.csproj.GenerateResource.Cache
+C:\Users\Dr\Documents\GitHub\CSharp\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.exe
+C:\Users\Dr\Documents\GitHub\CSharp\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.pdb
+C:\Users\Dr\Documents\GitHub\CSharp\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.frmDatabase.resources
